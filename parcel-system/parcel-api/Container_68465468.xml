@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<Container xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>99887766</Id>
+  <ShippingDate>2024-10-09T00:00:00+02:00</ShippingDate>
+  <parcels>
+    <Parcel>
+      <Receipient>
+        <Name>Alex Johnson</Name>
+        <Address>
+          <Street>Main Street</Street>
+          <HouseNumber>42</HouseNumber>
+          <PostalCode>1234AB</PostalCode>
+          <City>Amsterdam</City>
+        </Address>
+      </Receipient>
+      <Weight>1.5</Weight>
+      <Value>300.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Linda Cooper</Name>
+        <Address>
+          <Street>Park Lane</Street>
+          <HouseNumber>7</HouseNumber>
+          <PostalCode>5678CD</PostalCode>
+          <City>Rotterdam</City>
+        </Address>
+      </Receipient>
+      <Weight>3.0</Weight>
+      <Value>500.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Michael Smith</Name>
+        <Address>
+          <Street>Elm Street</Street>
+          <HouseNumber>9</HouseNumber>
+          <PostalCode>9101EF</PostalCode>
+          <City>The Hague</City>
+        </Address>
+      </Receipient>
+      <Weight>10.0</Weight>
+      <Value>1000.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Sophia Turner</Name>
+        <Address>
+          <Street>King's Road</Street>
+          <HouseNumber>56</HouseNumber>
+          <PostalCode>3456GH</PostalCode>
+          <City>Utrecht</City>
+        </Address>
+      </Receipient>
+      <Weight>5.0</Weight>
+      <Value>750.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>John Doe</Name>
+        <Address>
+          <Street>River Drive</Street>
+          <HouseNumber>101</HouseNumber>
+          <PostalCode>6543IJ</PostalCode>
+          <City>Maastricht</City>
+        </Address>
+      </Receipient>
+      <Weight>2.5</Weight>
+      <Value>150.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Emily Davis</Name>
+        <Address>
+          <Street>Bridge Road</Street>
+          <HouseNumber>78</HouseNumber>
+          <PostalCode>4321KL</PostalCode>
+          <City>Groningen</City>
+        </Address>
+      </Receipient>
+      <Weight>12.0</Weight>
+      <Value>1800.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Emily Davis</Name>
+        <Address>
+          <Street>Bridge Road</Street>
+          <HouseNumber>78</HouseNumber>
+          <PostalCode>4321KL</PostalCode>
+          <City>Groningen</City>
+        </Address>
+      </Receipient>
+      <Weight>12.0</Weight>
+      <Value>1800.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Robert Brown</Name>
+        <Address>
+          <Street>Lake View Avenue</Street>
+          <HouseNumber>55</HouseNumber>
+          <PostalCode>7654MN</PostalCode>
+          <City>Eindhoven</City>
+        </Address>
+      </Receipient>
+      <Weight>7.0</Weight>
+      <Value>600.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Alice Johnson</Name>
+        <Address>
+          <Street>Forest Drive</Street>
+          <HouseNumber>89</HouseNumber>
+          <PostalCode>2345OP</PostalCode>
+          <City>Breda</City>
+        </Address>
+      </Receipient>
+      <Weight>0.8</Weight>
+      <Value>200.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Henry Wilson</Name>
+        <Address>
+          <Street>Sunset Boulevard</Street>
+          <HouseNumber>22</HouseNumber>
+          <PostalCode>8765QR</PostalCode>
+          <City>Tilburg</City>
+        </Address>
+      </Receipient>
+      <Weight>15.0</Weight>
+      <Value>0.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Lucy Miller</Name>
+        <Address>
+          <Street>Bay Street</Street>
+          <HouseNumber>74</HouseNumber>
+          <PostalCode>5678ST</PostalCode>
+          <City>Leiden</City>
+        </Address>
+      </Receipient>
+      <Weight>20.0</Weight>
+      <Value>2000.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Lucy Miller</Name>
+        <Address>
+          <Street>Bay Street</Street>
+          <HouseNumber>74</HouseNumber>
+          <PostalCode>5678ST</PostalCode>
+          <City>Leiden</City>
+        </Address>
+      </Receipient>
+      <Weight>20.0</Weight>
+      <Value>2000.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Olivia Green</Name>
+        <Address>
+          <Street>Harbor Lane</Street>
+          <HouseNumber>13</HouseNumber>
+          <PostalCode>8901UV</PostalCode>
+          <City>Amersfoort</City>
+        </Address>
+      </Receipient>
+      <Weight>0.4</Weight>
+      <Value>0.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>James Parker</Name>
+        <Address>
+          <Street>Oakwood Drive</Street>
+          <HouseNumber>29</HouseNumber>
+          <PostalCode>1112WX</PostalCode>
+          <City>Arnhem</City>
+        </Address>
+      </Receipient>
+      <Weight>2.0</Weight>
+      <Value>300.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Grace Williams</Name>
+        <Address>
+          <Street>Hilltop Road</Street>
+          <HouseNumber>44</HouseNumber>
+          <PostalCode>2234YZ</PostalCode>
+          <City>Haarlem</City>
+        </Address>
+      </Receipient>
+      <Weight>5.0</Weight>
+      <Value>500.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Grace Williams</Name>
+        <Address>
+          <Street>Hilltop Road</Street>
+          <HouseNumber>44</HouseNumber>
+          <PostalCode>2234YZ</PostalCode>
+          <City>Haarlem</City>
+        </Address>
+      </Receipient>
+      <Weight>5.0</Weight>
+      <Value>500.0</Value>
+    </Parcel>
+    <Parcel>
+      <Receipient>
+        <Name>Ethan Moore</Name>
+        <Address>
+          <Street>Mountain View Street</Street>
+          <HouseNumber>67</HouseNumber>
+          <PostalCode>3456ZA</PostalCode>
+          <City>Zwolle</City>
+        </Address>
+      </Receipient>
+      <Weight>0.3</Weight>
+      <Value>0.0</Value>
+    </Parcel>
+  </parcels>
+</Container>
